@@ -21,14 +21,12 @@ d = \sqrt{x^2 + y^2} \times 6371
 1) En C, en ajoutant #include <math.h> en début de programme, on a droit à M_PI qui est la constante π (avec une précision suffisante)
 1) La formule donne la distance en km entre les 2 points.
 1) Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :<br />
-    latA = 50.661778
+    latA = 50.661778<br />
     longA = 5.523157<br />
-    
-
     latB = 49.000968<br />
     longB = 3.413383<br />
     -> latA (rad) = 0.884215<br />
-    -> longA (rad) = 0.096397<br />    
+    -> longA (rad) = 0.096397<br />
     -> latB (rad) = 0.855228<br />
     -> longB (rad) = 0.059575<br />
     -> x = -0.023752<br />
