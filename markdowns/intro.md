@@ -26,4 +26,4 @@ int main()
 ```
 10) Vous pouvez alors remplacer `printf("Hello world!\n");` par les instructions et commentaires de votre solution.
 10) Le bouton "Build and run" (![Le bouton "Build and run"](buildrun.png)) permet de recompiler et exécuter tout votre projet.
-10) **! Si vous avez ouverts plusieurs projets, assurez-vous que celui qui apparait en gras (qui est le projet actif) dans le Manager à gauche soit le bon. Si ce n'est pas le cas, un simple clic droit sur le nom du prjet vous permet de l'activer.**
+10) **! Si vous avez ouverts plusieurs projets, assurez-vous que celui qui apparait en gras (qui est le projet actif) dans le Manager à gauche soit le bon. Si ce n'est pas le cas, un simple clic droit sur le nom du projet vous permet de l'activer.**
