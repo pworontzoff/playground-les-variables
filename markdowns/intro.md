@@ -24,4 +24,5 @@ int main()
     return 0;
 }
 ```
-Vous pouvez alors remplacer `cprintf("Hello world!\n");` par les instructions et commentaires de votre solution.
+1) Vous pouvez alors remplacer `printf("Hello world!\n");` par les instructions et commentaires de votre solution.
+1) Le bouton "Build and run" (la petite roue dentée et le triangle vert) permet 
