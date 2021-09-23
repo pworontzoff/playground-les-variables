@@ -14,6 +14,21 @@ y = latitudeB - latitudeA
 d = \sqrt{x^2 + y^2} \times 6371
 ```
 
-**Note :** Dans cette formule, les latitudes et longitudes sont exprimées en radians.
-La formule donne la distance en km entre les 2 points.
-Les calculs peuvent être vérifiés facilement avec Google Maps.
+**Notes :**
+1) Dans cette formule, les latitudes et longitudes sont exprimées en radians.
+1) L'utilisateur encondera les angles de latitudes et longitudes en degrés (comme c'est le cas conventionnellement).
+1) Rappelons-nous que 180° = π radians !
+1) En C, en ajoutant #include <math.h> en début de programme, on a droit à M_PI qui est la constante π (avec une précision suffisante)
+1) La formule donne la distance en km entre les 2 points.
+1) Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :
+    latA = 50.661778;
+    longA = 5.523157;
+    latB = 49.000968;
+    longB = 3.413383;
+    -> latA (rad) = 0.884215
+    -> longA (rad) = 0.096397
+    -> latB (rad) = 0.855228
+    -> longB (rad) = 0.059575
+    -> x = -0.023752
+    -> y = -0.028987
+    -> d = 238.753505 (km);
