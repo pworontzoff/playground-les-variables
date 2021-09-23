@@ -23,6 +23,8 @@ d = \sqrt{x^2 + y^2} \times 6371
 1) Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :<br />
     latA = 50.661778
     longA = 5.523157<br />
+    
+
     latB = 49.000968<br />
     longB = 3.413383<br />
     -> latA (rad) = 0.884215<br />
