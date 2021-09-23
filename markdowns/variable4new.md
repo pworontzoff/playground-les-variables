@@ -1,4 +1,4 @@
-# Exercice 2
+# Exercice 4
 
 Les villageois font pousser dans leurs champs carrés un étrange légume géant : le Moutab. Les anciens vous ont dit que, d'après leurs estimations, le rendement de cette année serait de 23 kg de Moutab par mètre carré de culture. Vous voudriez écrire un programme permettant aux villageois de prédire la quantité de légume qu'ils peuvent espérer récolter dans chacun de leurs champs.
 
