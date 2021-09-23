@@ -1,5 +1,7 @@
 title: Les variables
 plan:
+- title: Introduction
+  statement: markdowns/intro.md
 - title: Exercice 1
   statement: markdowns/variable1.md
 - title: Exercice 2
