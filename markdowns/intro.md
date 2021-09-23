@@ -14,3 +14,14 @@ Une fois codeBlocks installé, vous pouvez créer un projet par exercice :
 1) Vérifier que le compilateur est bien GNU GCC Compiler
 1) Finish
 1) Dans le volet "Manager" à gauche, vous voyez votre projet, cliquez sur les plus pour arriver à main.c. En double-cliquant celui-ci, vous pouvez le modifier dans la partie principale. Au départ vous avez un programme "hello world!" :
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+```
+Vous pouvez alors remplacer `cprintf("Hello world!\n");` par les instructions et commentaires de votre solution.
