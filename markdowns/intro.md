@@ -4,7 +4,7 @@ Cette série d'exercice est à résoudre avec Code::Blocks disponible gratuiteme
 
 *Attention à bien installer une version de codeblocks avec le compilateur "mingw" qui n'est a priori pas la première version proposée !! (#fautscrollerunpeu)*
 
-Une fois codeBlocks installé, vous pouvez créer un projet par exercice :
+Une fois codeBlocks installé, vous pouvez créer *un projet par exercice* :
 1) File > New > Projetcs...
 1) Console application > Go
 1) C > Next
