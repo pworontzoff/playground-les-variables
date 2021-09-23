@@ -2,9 +2,9 @@
 
 Écrire un programme qui permet de permuter la valeur de 3 variables à l’aide d’une 4ème.
 <pre>
-  _________
- |         |
-\ /        |
- -
+   _________
+  |         |
+ \ /        |
+  -
 ( a -> b -> c))
 </pre>
