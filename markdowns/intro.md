@@ -2,9 +2,9 @@
 
 Cette série d'exercice est à résoudre avec Code::Blocks disponible gratuitement (https://www.codeblocks.org/downloads/binaries/)
 
-*Attention à bien installer une version de codeblocks avec le compilateur "mingw" qui n'est a priori pas la première version proposée !! (#fautscrollerunpeu)*
+**Attention à bien installer une version de codeblocks avec le compilateur "mingw" qui n'est a priori pas la première version proposée !! (#fautscrollerunpeu)**
 
-Une fois codeBlocks installé, vous pouvez créer *un projet par exercice* :
+Une fois codeBlocks installé, vous pouvez créer **un projet par exercice** :
 1) File > New > Projetcs...
 1) Console application > Go
 1) C > Next
@@ -26,4 +26,4 @@ int main()
 ```
 10) Vous pouvez alors remplacer `printf("Hello world!\n");` par les instructions et commentaires de votre solution.
 10) Le bouton "Build and run" (![Le bouton "Build and run"](buildrun.png)) permet de recompiler et exécuter tout votre projet.
-10) *! Si vous avez ouverts plusieurs projets, assurez-vous que celui qui apparait en gras (qui est le projet actif) dans le Manager à gauche soit le bon. Si ce n'est pas le cas, un simple clic droit sur le nom du prjet vous permet de l'activer.*
+10) **! Si vous avez ouverts plusieurs projets, assurez-vous que celui qui apparait en gras (qui est le projet actif) dans le Manager à gauche soit le bon. Si ce n'est pas le cas, un simple clic droit sur le nom du prjet vous permet de l'activer.**
