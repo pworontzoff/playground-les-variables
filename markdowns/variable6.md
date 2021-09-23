@@ -1,4 +1,4 @@
-# Exercice 4
+# Exercice 6
 
 Dans l’optique de développer une app pour smartphone permettant de localiser le DEA (Défibrillateur Externe Automatisé) le plus proche de vous et ainsi de peut-être sauver des vies, nous allons développer un prototype permettant de tester l’idée. Dans la problématique, il est nécessaire de pouvoir calculer la distance entre deux points du globe. Ecrivez en C un programme permettant de calculer une distance à partir de coordonnées GPS. Pour l’exercice, utilisez les formules suivantes :
 
