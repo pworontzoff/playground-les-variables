@@ -8,3 +8,5 @@
   -
 ( a -> b -> c))
 </pre>
+
+Note : les valeurs de départ des variables sont données par l'utilisateur.
