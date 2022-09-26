@@ -14,6 +14,8 @@ y = latitudeB - latitudeA
 d = \sqrt{x^2 + y^2} \times 6371
 ```
 
+![Latitudes et longitudes - Schéma](img/Lat_long.JPG)
+
 **Notes :**
 1) Dans cette formule, les latitudes et longitudes sont exprimées en radians.
 1) L'utilisateur encondera les angles de latitudes et longitudes en degrés (comme c'est le cas conventionnellement).
