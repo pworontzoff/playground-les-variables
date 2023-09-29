@@ -31,14 +31,14 @@ d = \sqrt{x^2 + y^2} \times 6371
 ```
 + La formule donne la distance en km entre les 2 points.
 + Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :<br />
-    latA = 50.661778<br />
-    longA = 5.523157<br />
-    latB = 49.000968<br />
-    longB = 3.413383<br />
+    **latA = 50.661778**<br />
+    **longA = 5.523157**<br />
+    **latB = 49.000968**<br />
+    **longB = 3.413383**<br />
     -> latA (rad) = 0.884215<br />
     -> longA (rad) = 0.096397<br />
     -> latB (rad) = 0.855228<br />
     -> longB (rad) = 0.059575<br />
     -> x = -0.023752<br />
     -> y = -0.028987<br />
-    -> d = 238.753505 (km);
+    **-> d = 238.753505 (km);**
