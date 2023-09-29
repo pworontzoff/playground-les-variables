@@ -1,6 +1,6 @@
 # Exercices sur les variables (et les opérations / calculs de base)
 
-Cette série d'exercice est à résoudre avec Code::Blocks disponible gratuitement (https://www.codeblocks.org/downloads/binaries/)
+Cette série d'exercice est à résoudre avec Visual Studio disponible gratuitement (https://ecolevirtuelle.provincedeliege.be/ctrl/ctrl_gestion.openDocument?p_idNode=1177603)
 
 **Attention à bien installer une version de codeblocks avec le compilateur "mingw" qui n'est a priori pas la première version proposée !! (#fautscrollerunpeu)**
 
