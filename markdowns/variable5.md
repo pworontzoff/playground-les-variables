@@ -18,3 +18,10 @@ int main()
 	printf("%d\n", difference);
 }
 ```
+
+La doyenne aimerait arriver à ce résultat :
+```
+age du fils cadet : 5
+age du fils aine : 10
+Difference d'age : 5
+```
