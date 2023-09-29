@@ -17,11 +17,11 @@ d = \sqrt{x^2 + y^2} \times 6371
 ![Latitudes et longitudes - Schéma](img/Lat_long.JPG)
 
 **Notes :**
-1) Dans cette formule, les latitudes et longitudes sont exprimées en radians.
-1) L'utilisateur encondera les angles de latitudes et longitudes en degrés (comme c'est le cas conventionnellement).
-1) Rappelons-nous que 180° = π radians !
-1) En C, en ajoutant #include <math.h> en début de programme, on a droit à M_PI qui est la constante π (avec une précision suffisante)
-1) **Attention, avec Visual Studio, il est toutefois nécessaire d'ajouter la ligne**
++ Dans cette formule, les latitudes et longitudes sont exprimées en radians.
++ L'utilisateur encondera les angles de latitudes et longitudes en degrés (comme c'est le cas conventionnellement).
++ Rappelons-nous que 180° = π radians !
++ En C, en ajoutant #include <math.h> en début de programme, on a droit à M_PI qui est la constante π (avec une précision suffisante)
++ **Attention, avec Visual Studio, il est toutefois nécessaire d'ajouter la ligne**
 ```
 #define _USE_MATH_DEFINES
 ```
@@ -29,8 +29,8 @@ d = \sqrt{x^2 + y^2} \times 6371
 ```
 #include <math.h>
 ```
-1) La formule donne la distance en km entre les 2 points.
-1) Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :<br />
++ La formule donne la distance en km entre les 2 points.
++ Les calculs peuvent être vérifiés facilement avec Google Maps ou bien avec les valeurs tests suivantes :<br />
     latA = 50.661778<br />
     longA = 5.523157<br />
     latB = 49.000968<br />
