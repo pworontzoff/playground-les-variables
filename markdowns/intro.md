@@ -4,4 +4,21 @@ Cette série d'exercice est à résoudre avec Visual Studio disponible gratuitem
 
 Une fois Visual Studio installé, vous pouvez créer **un projet par exercice** !!
 
+Au départ, vous pouvez toujours commencer par taper (ou copier-coller ;-D) les lignes suivantes :
+''c
+#pragma warning(disable:4996)
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    return 0;
+}
+''
+
+Ensuite, vous pouvez écrire votre code en ligne 7 juste avant l'instruction ''return 0;
+
+Le bouton "Build and run" (Le bouton "Build and run") permet de recompiler et exécuter tout votre projet.
+
 **! Si vous avez ouverts plusieurs projets, assurez-vous que celui qui apparait en gras (qui est le projet actif) dans le Manager à gauche soit le bon. Si ce n'est pas le cas, un simple clic droit sur le nom du projet vous permet de l'activer.**
