@@ -2,7 +2,7 @@
 
 Cette série d'exercice est à résoudre avec Visual Studio disponible gratuitement (https://ecolevirtuelle.provincedeliege.be/ctrl/ctrl_gestion.openDocument?p_idNode=1177603)
 
-Une fois Visual Studio installé, vous pouvez créer **un projet par exercice** (Fichiers > Nouveau > Projets) !!
+Une fois Visual Studio installé, vous pouvez créer **un projet par exercice** (Fichiers > Nouveau > Projets...) !!
 
 Au départ, vous pouvez toujours commencer par taper (ou copier-coller ;-D) les lignes suivantes :
 ```c
